@@ -1,0 +1,16 @@
+--color-background -- Definindo uma variável em css para a cor de fundo
+rem e % são medidas flexiveis e se adaptam ao dispositivo
+em CSS * significa muitos elementos
+os valores do padding funciona em sentido horário
+Em vez de utilizar fieldset, usar no css:
+#container{
+border 1px solid color
+padding: valores;
+margin: valores;
+}
+=========/==========
+No grid template quando se define as columns está dizendo o tanto de colunas que vai ter e tamanho delas. Ao se definir as grid areas está se definindo o quanto de cada coluna cada elemento vai utilizar.
+============/==============
+npm init -y -> Começa um projeto na raiz dos arquivos
+npm install express -> instala a biblioteca do express
+nodemon -> monitoramento do node
