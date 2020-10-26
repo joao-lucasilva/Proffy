@@ -5,6 +5,7 @@
 ![Botão de Versão](https://img.shields.io/badge/Version-3.0-blue)   ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![Node](https://img.shields.io/badge/Node-12.19-green)
 
 ![Tela Inicial Proffy](https://media-exp1.licdn.com/dms/image/C5622AQEPeH-iNnsllg/feedshare-shrink_2048_1536-alternative/0?e=1606348800&v=beta&t=uPa1Qrmxyeu7-wTDMswaIrUB-fEdFpJm194ZppfFJCk)
+
 Tabela de conteúdos
 =================
    * [Sobre](#sobre)
@@ -21,9 +22,12 @@ Os professores podem realizar o cadastro e incluir as disciplinas que podem dar 
 ## Tecnologias
 Neste projeto foi utilizado:
 	- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5);
-	- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-	- [Node.js](https://nodejs.org/en/docs/)
-	- [SQLite](https://www.sqlite.org/docs.html)
+  
+	- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS);
+  
+	- [Node.js](https://nodejs.org/en/docs/);
+
+	- [SQLite](https://www.sqlite.org/docs.html).
  
 ## Autor
 Desenvolvido por João Lucas da Silva.
