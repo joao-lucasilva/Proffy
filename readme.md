@@ -21,12 +21,10 @@ Os professores podem realizar o cadastro e incluir as disciplinas que podem dar 
 ![Tela de Proffys](https://media-exp1.licdn.com/dms/image/C4D22AQHhHssGgdoafA/feedshare-shrink_1280-alternative/0?e=1606348800&v=beta&t=nQ2Mq7n2gDDHyzy_Hf1uv5R--cBH-TTHbvB1Z7VU8kI)
 ## Tecnologias
 Neste projeto foi utilizado:
-	- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5);
-  
-	- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS);
-  
-	- [Node.js](https://nodejs.org/en/docs/);
 
+	- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5);
+	- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS);
+	- [Node.js](https://nodejs.org/en/docs/);
 	- [SQLite](https://www.sqlite.org/docs.html).
  
 ## Autor
